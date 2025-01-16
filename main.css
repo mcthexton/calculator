@@ -1,0 +1,35 @@
+.container {
+    border: solid black 1px;
+    border-radius: 10px;
+    width: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.buttons {
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.display {
+    border: solid black 1px;
+    width: 400px;
+    margin: 10px;
+    font-size: 100px;
+    text-align: right;
+    padding-right: 10px;
+}
+
+button {
+    width: 92px;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 5px;
+}
+
+.brown {
+    background-color: #E6d9cb;
+}
+
